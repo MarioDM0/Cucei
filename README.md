@@ -1,2 +1,2 @@
 # Cucei
-Proyecto para cucei, codigo cerrado por cuestiones de seguridad
+Proyecto para cucei, creado con react native. Codigo cerrado por cuestiones de seguridad
